@@ -1,0 +1,11 @@
+
+com.console
+com.ex
+com.ex.BankCustomer
+com.ex.BankEmployee
+com.ex.DAO
+com.ex.Exceptions
+com.ex.GeneralUser
+com.ex.Repositories
+com.ex.Services
+com.ex.Utils
